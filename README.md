@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center w-50">
  <img src="Screenshot 2024-07-04 123303.png" />
 </h1>
 
