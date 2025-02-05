@@ -1,5 +1,5 @@
-<h1 align="center" width="36" height="36">
- <img src="Screenshot 2024-07-04 123303.png" />
+<h1 align="center">
+ <img width="36" height="36" src="Screenshot 2024-07-04 123303.png" />
 </h1>
 
 
