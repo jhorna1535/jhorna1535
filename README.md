@@ -1,4 +1,4 @@
-<h1 align="center h-50">
+<h1 align="center h-full w-full">
  <img src="github banner.png" />
 </h1>
 
