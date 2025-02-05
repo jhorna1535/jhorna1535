@@ -1,5 +1,5 @@
 <h1 align="center">
- <img width="36" height="36" src="Screenshot 2024-07-04 123303.png" />
+ <img width="400" height="400" src="Screenshot 2024-07-04 123303.png" />
 </h1>
 
 
@@ -134,3 +134,4 @@ Full Stack Web Developer
 <a href="https://github.com/jhorna1535" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhorna1535&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 **Top Repositories**
+
