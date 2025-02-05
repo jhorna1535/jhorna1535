@@ -1,5 +1,5 @@
-<h1 align="center h-full w-full">
- <img src="github banner.png" />
+<h1 align="center">
+ <img src="Screenshot 2024-07-04 123303.png" />
 </h1>
 
 
@@ -18,7 +18,8 @@ Full Stack Web Developer
 *   🧠  I'm learning Python ,Angular ✌️
 *   🤝  I'm open to collaborating on Project's 👍
 *   ⚡  I love Gardening💕
-*   
+
+* ### Skills  
 <p align="center">
   <!-- 🖥️ Programming Languages -->
   <strong>Programming Languages:</strong><br>
