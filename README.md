@@ -19,8 +19,9 @@ Full Stack Web Developer
 *   🤝  I'm open to collaborating on Project's 👍
 *   ⚡  I love Gardening💕
 
-* ### Skills  
-<p align="center">
+* ### Skills
+*  
+<p align="start">
   <!-- 🖥️ Programming Languages -->
   <strong>Programming Languages:</strong><br>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
