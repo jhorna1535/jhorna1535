@@ -1,5 +1,5 @@
 <h1 align="center h-50">
- <img src="Screenshot 2024-07-04 123303.png" />
+ <img src="github banner.png" />
 </h1>
 
 
