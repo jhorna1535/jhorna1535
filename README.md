@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-* ###About
+* ### About
 "I'M a Full Stack Web Developer with expertise in both front-end and back-end development. I love building responsive, dynamic, and scalable web applications. Always eager to learn and explore new technologies."
 
 *   🌍  I'm based in Bangladesh,DHAKA
@@ -21,7 +21,7 @@ Full Stack Web Developer
 *   ⚡  I love Gardening💕
 
 * ### Skills
-*  
+   
 <p align="start">
   <!-- 🖥️ Programming Languages -->
   <strong>Programming Languages:</strong><br>
